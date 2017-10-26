@@ -1,0 +1,14 @@
+How to: Make a Startup Windows Form Invisible  
+http://msdn2.microsoft.com/en-us/library/754w18dd(vs.80).aspx
+
+C# Tip: Placing Your C# Application in the System Tray
+Tom Archer
+http://www.developer.com/net/csharp/article.php/3336751
+
+Creating Bitmap Regions for Forms and Buttons
+by Weiye Chen
+http://www.codeproject.com/csharp/bmprgnform.asp
+
+Restricting Application to a Single Instance by 
+Vasudevan Deepak Kumar
+http://www.codeproject.com/csharp/restricting_instances.asp
